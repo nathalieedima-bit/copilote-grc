@@ -1,0 +1,9 @@
+﻿id;mesure;statut;controles;responsable;echeance
+M01;Revue trimestrielle des droits d acces sur Active Directory;En cours;8.2,5.15;Equipe IT;2027-03-31
+M02;Scan de vulnerabilites hebdomadaire et correction des failles critiques sous 15 jours;Applique;8.8;RSSI;2026-12-31
+M03;Clause de securite signee par les prestataires accedant au SI;Non demarre;5.19;Juridique;2027-06-30
+M04;Campagne de sensibilisation au phishing deux fois par an;Applique;6.3;RSSI;2026-11-30
+M05;Sauvegarde quotidienne et test de restauration trimestriel;En cours;8.13;Equipe IT;2027-02-28
+M06;Centralisation des journaux et conservation 12 mois;Non demarre;8.15,8.16;Equipe IT;2027-09-30
+M07;Chiffrement des postes portables;Applique;8.24;Equipe IT;2026-10-31
+M08;Procedure de gestion de crise cyber testee annuellement;Non demarre;5.24;RSSI;2027-12-31
