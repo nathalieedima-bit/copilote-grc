@@ -1,0 +1,16 @@
+﻿id;theme;titre;description;mots_cles
+5.1;Organisationnel;Politiques de securite de l information;Definir, faire approuver par la direction et diffuser les regles de securite;politique, direction, gouvernance
+5.7;Organisationnel;Renseignement sur les menaces;Collecter et analyser l information sur les menaces pertinentes;veille, menace, threat intelligence
+5.15;Organisationnel;Controle d acces;Encadrer qui accede a quelles informations selon le besoin metier;acces, droits, moindre privilege
+5.19;Organisationnel;Securite dans les relations fournisseurs;Identifier et traiter les risques lies aux fournisseurs et prestataires;fournisseur, tiers, sous-traitance
+5.23;Organisationnel;Securite des services cloud;Encadrer l acquisition, l usage et la sortie des services cloud;cloud, saas, prestataire
+5.24;Organisationnel;Planification de la reponse aux incidents;Definir les roles et procedures de gestion des incidents;incident, reponse, crise
+6.3;Personnes;Sensibilisation et formation;Former regulierement le personnel aux bonnes pratiques de securite;sensibilisation, formation, phishing
+7.2;Physique;Controle des acces physiques;Restreindre l acces physique aux zones sensibles;badge, local, physique
+8.2;Technologique;Droits d acces privilegies;Restreindre et surveiller les comptes a privileges;admin, privilege, compte
+8.7;Technologique;Protection contre les logiciels malveillants;Deployer et maintenir des protections antimalware;antivirus, edr, malware
+8.8;Technologique;Gestion des vulnerabilites techniques;Detecter, evaluer et corriger les vulnerabilites des systemes;vulnerabilite, correctif, patch
+8.13;Technologique;Sauvegarde des informations;Realiser et tester regulierement des sauvegardes;sauvegarde, restauration, backup
+8.15;Technologique;Journalisation;Enregistrer et proteger les journaux d activite;logs, tracabilite, audit
+8.16;Technologique;Surveillance des activites;Surveiller les systemes pour detecter les comportements anormaux;supervision, siem, detection
+8.24;Technologique;Utilisation de la cryptographie;Definir et appliquer des regles de chiffrement;chiffrement, cle, crypto
